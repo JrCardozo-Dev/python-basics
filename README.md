@@ -1,14 +1,22 @@
 # Python Basics
 
-Este repositório contém meus estudos iniciais em Python.
+📚 Repositório dedicado aos meus estudos iniciais em Python.
 
-## Conteúdo
+## 📌 Conteúdos estudados até agora
 
 - Variáveis
+- Tipos de dados (int, float, string)
 - Input e Output
-- Conversão de tipos
-- Condições (if/else)
+- f-strings
+- Condicionais (if / else)
 
-## Objetivo
+## 🎯 Objetivo
 
-Construir base sólida em programação para Engenharia de Software e Cybersegurança.
+Construir uma base sólida em programação para Engenharia de Software e futura especialização em Cybersecurity (Pentest).
+
+## 🚀 Progresso
+
+- [x] Primeiros scripts funcionando
+- [ ] Estruturas de repetição
+- [ ] Funções
+- [ ] Pequenos projetos práticos
