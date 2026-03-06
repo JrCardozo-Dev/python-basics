@@ -1,22 +1,31 @@
-# Python Basics
+# 💰 Sistema de Investimentos (Python)
 
-📚 Repositório dedicado aos meus estudos iniciais em Python.
+Projeto desenvolvido para treinar lógica de programação em Python.
 
-## 📌 Conteúdos estudados até agora
+## 📌 Funcionalidades
 
-- Variáveis
-- Tipos de dados (int, float, string)
-- Input e Output
+- Pergunta se o usuário deseja investir
+- Cadastro com nome e apelido
+- Coleta de idade e empresa
+- Classificação de investimento baseada na renda:
+  - Premium (>= 2000)
+  - Standart (>= 1500)
+  - Basics (< 1500)
+
+## 🛠️ Conceitos praticados
+
+- print()
+- input()
+- .lower()
+- float()
+- if / elif / else
 - f-strings
-- Condicionais (if / else)
+- exit()
 
-## 🎯 Objetivo
+## 🚀 Objetivo
 
-Construir uma base sólida em programação para Engenharia de Software e futura especialização em Cybersecurity (Pentest).
+Treinar estrutura condicional e fluxo de decisão em Python.
 
-## 🚀 Progresso
+---
 
-- [x] Primeiros scripts funcionando
-- [ ] Estruturas de repetição
-- [ ] Funções
-- [ ] Pequenos projetos práticos
+Desenvolvido durante meus estudos de programação 🧠🔥
